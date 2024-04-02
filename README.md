@@ -6,5 +6,5 @@ we propose **PRM-AMD**, which stands for an efficient ensemble of different **P*
 ![](asset/model.png)
 
 ## Note
-Due to the policy in the industrial incorporation where the code belongs to, we will release the complete code and data after the reviewing period.
+Due to the policy in the organization where the code belongs to, we will release the complete code and data after the reviewing period.
 
